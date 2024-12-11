@@ -1,0 +1,21 @@
+.formulario{
+    display: flex;
+    justify-content: center;
+    background-color: #5dade2;
+    padding: 100px;
+}
+.comparador{
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+.btn{
+    background-color: #2e86c1;
+    width: 200px;
+    padding: 0px;
+    border-radius: 10px;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+}
